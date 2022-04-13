@@ -1,9 +1,9 @@
 {
-  "name": "تليثون العرب",
-  "description": "تنصيب تليثون العرب الاصلي معرف قناتنا @iqthon",
-  "logo": "https://telegra.ph/file/277559574a1e241f5532e.jpg",
+  "name": "والـي العرب",
+  "description": "تنصيب والـي العرب الاصلي معرف قناتنا @ioi_t",
+  "logo": "https://telegra.ph/file/5fda4f37ae7c9f7ac449c.jpg",
   "keywords": [    "plugin",    "modular",    "productivity"  ],
-  "repository": "https://github.com/Telethon-helper/Helper/",
+  "repository": "https://github.com/WALEUSERBOT/WALEUSERHELP",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
@@ -38,7 +38,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "لاتـغيره! ",
-      "value": "Telethon-Ar",
+      "value": "WALE-Ar",
       "required": false
     }
   },
